@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\bin\Debug\WaitHandlers2203.exe.config
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\bin\Debug\WaitHandlers2203.exe
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\bin\Debug\WaitHandlers2203.pdb
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\obj\Debug\WaitHandlers2203.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\obj\Debug\WaitHandlers2203.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\obj\Debug\WaitHandlers2203.exe
+C:\Users\User\source\repos\WaitHandlers2203\WaitHandlers2203\obj\Debug\WaitHandlers2203.pdb
